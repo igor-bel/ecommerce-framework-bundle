@@ -19,7 +19,7 @@
     "pimcore/google-marketing-bundle": "^1.0",
     "knplabs/knp-paginator-bundle": "^6.0.0",
     "symfony/webpack-encore-bundle": "^1.7",
-    "symfony/form": "6.2"
+    "symfony/form": "^6.2"
   },
   "conflict": {
     "pimcore/pimcore": "v11.0.0-ALPHA1 || v11.0.0-ALPHA2 || v11.0.0-ALPHA3 || v11.0.0-ALPHA4 || v11.0.0-ALPHA5 || v11.0.0-ALPHA6 || v11.0.0-ALPHA7 || v11.0.0-ALPHA8 || v11.0.0-BETA1"
